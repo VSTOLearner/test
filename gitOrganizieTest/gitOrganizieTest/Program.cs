@@ -10,6 +10,7 @@ namespace gitOrganizieTest
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("DXTest");
             Console.WriteLine("MainTest");
         }
     }

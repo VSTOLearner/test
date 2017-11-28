@@ -10,7 +10,10 @@ namespace gitOrganizieTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("devilx5Testwerwerwerwer");
+            var c = new Class1();
+            c.Name = "dx";
+            Console.WriteLine(c.Name);
+            Console.WriteLine("devilx5Testwerwerwerwerasdfasdfasdfasdfsadfsadf");
         }
     }
 }

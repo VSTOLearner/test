@@ -10,7 +10,8 @@ namespace gitOrganizieTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("devilx5Testwerwerwerwer");
+            Console.WriteLine("123");
+            Console.WriteLine("devilx5Testwerwerwerwe1r");
         }
     }
 }
